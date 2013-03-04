@@ -13,7 +13,10 @@ a:hover {
 }
 
 div.user {
-	margin-top: 20px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
 }
 
 div.avatar {
