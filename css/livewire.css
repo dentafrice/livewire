@@ -33,3 +33,8 @@ div.links ul {
 div.links .pull-right {
 	margin-right: 3px;
 }
+
+div.blog {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

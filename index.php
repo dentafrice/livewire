@@ -32,16 +32,25 @@
         	<li><a href="http://linkedin.com/in/calebio" target="_blank">LinkedIn</a></li>
         	<li><a href="http://github.com/dentafrice" target="_blank">Github</a></li>
       	</ul>
-      	
-      	<div class="pull-left">
-      		<a href="mailto:me@caleb.io">me@caleb.io</a>
-      	</div>
-      	
-      	<div class="pull-right">
-      		<a href="http://twitter.com/caleb_io">@caleb_io</a>
-      	</div>
-      	
-      	<div class="clearfix"></div>
+      </div>
+
+      <div class="blog well">
+        <ul class="nav nav-list">
+          <li class="nav-header">Latest Blog Articles</li>
+          <?php include "_inc/latest.php" ?>
+        </ul>
+      </div>
+
+      <div class="contact">
+        <div class="pull-left">
+          <a href="mailto:me@caleb.io">me@caleb.io</a>
+        </div>
+
+        <div class="pull-right">
+          <a href="http://twitter.com/caleb_io">@caleb_io</a>
+        </div>
+
+        <div class="clearfix"></div>
       </div>
     </div> <!-- /container -->
 
