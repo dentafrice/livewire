@@ -30,7 +30,7 @@
         	<li><a href="http://dentafrice.com" target="_blank">Blog</a></li>
         	<li><a href="http://sore.caleb.io" target="_blank">Photo Blog</a></li>
         	<li><a href="http://linkedin.com/in/calebio" target="_blank">LinkedIn</a></li>
-        	<li><a href="http://github.com" target="_blank">Github</a></li>
+        	<li><a href="http://github.com/dentafrice" target="_blank">Github</a></li>
       	</ul>
       	
       	<div class="pull-left">
