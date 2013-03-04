@@ -1,40 +1,13 @@
-body {
-	background-image: url(/img/illusion.png);
-	color: #ccc;
-}
-
-a {
-	color: white;
-}
-
-a:hover {
-	color: white;
-	text-decoration: none;
-}
-
 div.user {
-	width: 400px;
+	width: 310px;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 30px;
-}
-
-div.avatar {
-	float: left;
-	margin-right: 10px;
+	margin-top: 40px;
 }
 
 div.information {
-	float: left;
-	margin-top: 22px;
-}
-
-div.avatar img {
-	width: 100px;
-	height: 100px;
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
+	text-align: center;
+	margin-top: 20px;
 }
 
 div.information .name {
@@ -48,40 +21,15 @@ div.information .title {
 }
 
 div.links {
-	margin-top: 20px;
-	width: 400px;
+	width: 307px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 div.links ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
+	margin-bottom: 10px;
 }
 
-div.links ul li {
-	width: 90px;
-	margin-right: 10px;
-	float: left;
-	padding: 5px 10px 5px 10px;
-	background-color: grey;
-	border-radius: 5px;
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
-	text-align: center;
-	box-sizing: border-box;
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-}
-
-div.links ul li.last-child {
-	width: 100px;
-	margin-right: 0;
-}
-
-div.links ul li:hover {
-	background-color: lightgrey;
-}
-
-div.links ul li:hover a {
-	color: black;
+div.links .pull-right {
+	margin-right: 3px;
 }
