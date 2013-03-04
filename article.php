@@ -17,6 +17,24 @@
   <body>
     <div class="container-fluid">
       <?php include "_inc/header.php"; ?>
+      
+      <hr />
+      
+      <div class="article">
+      	<?php
+      	$article = (isset($_GET["article"])) ? $_GET["article"] : "404";
+		$article = realpath("./articles/{$article}.md");
+		
+		if(file_exists($article)) {
+			$text = file_get_contents($article);
+			include "_inc/markdown.php";
+			echo Markdown($text);
+		} else {
+			echo "Article does not exist and can't find 404 page.";
+		}
+		
+      	?>
+      </div>
     </div> <!-- /container -->
 
     <!-- Le javascript

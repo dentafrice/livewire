@@ -22,6 +22,8 @@ div.user {
 div.avatar {
 	float: left;
 	margin-right: 10px;
+	width: 100px;
+	height: 100px;
 }
 
 div.information {
