@@ -19,7 +19,7 @@
       <div class="user">
       	<div class="information">
       		<div class="name">Caleb Mingle</div>
-      		<p class="title">Software Engineer at Mavenlink</p>
+      		<p class="title">Software Engineer at Uber</p>
       	</div>
 
       	<div class="clearfix" />
