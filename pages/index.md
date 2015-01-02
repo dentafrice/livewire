@@ -1,6 +1,5 @@
-+ [Blog](http://dentafrice.com)
-+ [\@caleb_io](http://twitter.com/caleb_io)
 + [Photo Blog](http://sore.caleb.io)
++ [\@caleb_io](http://twitter.com/caleb_io)
 + [Instagram](http://instagram.com/nginear)
 + [LinkedIn](http://linkedin.com/in/calebio)
 + [Github](http://github.com/dentafrice)
