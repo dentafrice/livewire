@@ -1,3 +1,4 @@
+{{{highlighter}}}
 # CoffeeScript Mixins
 
 **04 September 2013**

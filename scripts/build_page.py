@@ -9,6 +9,7 @@ mappings = {
     'header': 'modules/header.md',
     'footer': 'modules/footer.md',
     'tracking': 'modules/tracking.html',
+    'highlighter': 'modules/highlighter.html',
 }
 
 
@@ -36,7 +37,7 @@ mappings['body'] = page
 
 template = render(template, mappings)
 
-filename = 'compiled/%s.html' % page.replace('.md', '')
+filename = 'build/%s.html' % page.replace('.md', '')
 
 if not os.path.exists(os.path.dirname(filename)):
     os.makedirs(os.path.dirname(filename))
