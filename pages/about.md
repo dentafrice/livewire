@@ -13,7 +13,7 @@ I've also worked in a wide variety of interesting industries besides software:
 + Cabinetmaking
 + Sign and Decal Production
 
-Me and my wife Paige live near the ocean in the Sunset of San Francisco, CA.
+My wife Paige and I live near the ocean in the Sunset of San Francisco, CA.
 
 ---
 
