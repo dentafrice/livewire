@@ -3,6 +3,7 @@ serve: all start_server
 build:
 	mkdir build
 	./scripts/build.sh
+	cp -R assets build/pages/assets
 clean:
 	rm -rf build
 deploy:
