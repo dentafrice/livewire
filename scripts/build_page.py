@@ -30,7 +30,7 @@ def render(template, mappings):
                 'pandoc -B build/header.html -A build/footer.html -s -f markdown -t html5'
                 + ' -T "Caleb Mingle" --toc --template modules/template.html'
                 + ' --include-after-body modules/tracking.html'
-                + ' -c "{{{site_url}}}assets/default.css" --section-divs %s' % value
+                + ' -c "{{{site_url}}}assets/css/default.css" --section-divs %s' % value
             ).read()
         else:
             replacement = value

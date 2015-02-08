@@ -2,7 +2,7 @@
 %
 % April 1st, 2013
 
-![](http://f.caleb.io/instacart.png)
+![]({{{site_url}}}assets/blog/instacart.png)
 
 I try to resist complaining, but one of my favorite startups have let me down in a big way.
 
