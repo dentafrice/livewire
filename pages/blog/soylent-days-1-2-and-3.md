@@ -1,10 +1,10 @@
-# Soylent: Days 1, 2, and 3
-
-**14 October 2014**
+% Soylent: Days 1, 2, and 3
+%
+% October 14th, 2014
 
 So, I ordered a week's supply of Soylent back in the spring and got it in the mail on Friday of last week (I love surprise packages).
 
-## Day 1
+# Day 1
 
 I mixed up a full package in the supplied pitcher and put it in the fridge to chill for ~3 hours.
 
@@ -20,13 +20,13 @@ After about an hour I felt pretty bloated and that continued on throughout the e
 
 This was my only glass on day 1.
 
-## Day 2
+# Day 2
 
 Poured a glass and took a whiff of it. For some reason the smell now made me nauseous and I poured it out.
 
 Ordered two blender bottles so I could start to experiment with some flavors (I don't own a blender or anything. That's never been required for delivered food).
 
-## Day 3
+# Day 3
 
 Blender bottles arrived in the evening.
 

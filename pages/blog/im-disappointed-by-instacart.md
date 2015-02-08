@@ -1,6 +1,6 @@
-# I'm disappointed by Instacart.
-
-**01 April 2013**
+% I'm disappointed by Instacart.
+%
+% April 1st, 2013
 
 ![](http://f.caleb.io/instacart.png)
 

@@ -1,3 +1,5 @@
+% Blog
+
 # 2015
 
 ## January

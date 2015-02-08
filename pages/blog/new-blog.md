@@ -1,6 +1,6 @@
-# Bye Tumblr (it's been a long road)
-
-**03 March 2013**
+% Bye Tumblr (it's been a long road)
+%
+% March 3rd, 2013
 
 So I’ve decided to give up on ol’ Tumblr. It has served me well for the years that I’ve used it but I just don’t do much blogging anymore.
 

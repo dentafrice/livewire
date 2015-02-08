@@ -1,6 +1,6 @@
-# New Site
-
-**January 2nd, 2015**
+% New Site
+%
+% January 2nd, 2015**
 
 My old website used to be just a landing page with a separate blog hosted on Github pages using Jekyll.
 

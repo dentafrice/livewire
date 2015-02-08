@@ -1,6 +1,6 @@
-# No more Soylent
-
-**06 November 2014**
+% No more Soylent
+%
+% November 6th, 2014
 
 I forgot about this...
 
